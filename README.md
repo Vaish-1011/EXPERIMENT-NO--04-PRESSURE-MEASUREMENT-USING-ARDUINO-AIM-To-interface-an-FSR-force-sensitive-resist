@@ -88,15 +88,11 @@ void loop()
   
 }
 ```
-![image](https://github.com/Vaish-1011/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/135130074/fe9879d2-a795-472a-b3f9-180daa10a6da)
-
-
 ![image](https://github.com/Vaish-1011/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/135130074/6f2be503-8d8d-4292-b83b-fc1b03e87f7a)
-
-
 
 ![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
 
+![image](https://github.com/Vaish-1011/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/135130074/fe9879d2-a795-472a-b3f9-180daa10a6da)
 
 ### TABLE -02 standard deviation table 
 ### Population Standard Deviation
@@ -126,4 +122,6 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 
 
-### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
+### RESULTS : 
+
+Arduino uno is interfaced with FSR and output values are indicated on a graph.
